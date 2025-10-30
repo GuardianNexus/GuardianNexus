@@ -1,7 +1,7 @@
 # 👾 GuardianNexus
 
 Welcome to my space.  
-Passionate about cybersecurity, programming, and digital guardians.  
+Passionate about cybersecurity, programming, and digital guardians. 
 
 ---
 
